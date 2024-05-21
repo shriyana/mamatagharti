@@ -1,0 +1,38 @@
+---
+enable: true
+topTitle: Skillful Solutions
+title: >
+  ## Business Services
+
+  Transitioning from academia to real-world application, I'm equipped to provide a range of business solutions tailored to optimize operations and drive success.
+service:
+  - content: >
+      #### Market Research 
+
+      Specializing in comprehensive market research, I deliver valuable insights to support strategic decision-making and identify lucrative opportunities for growth.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Financial Analysis 
+
+      Leveraging analytical skills, I offer in-depth financial analysis to assess performance, identify trends, and guide informed financial decisions.
+    image: images/service/web.svg
+  - content: >
+      #### Business Process Optimization 
+
+      With a keen eye for efficiency, I optimize business processes to enhance productivity, minimize costs, and streamline operations for maximum effectiveness.
+    image: images/service/creative.svg
+  - content: >
+      #### Strategic Planning 
+
+      Equipped with strategic foresight, I develop actionable plans aligned with organizational goals, guiding businesses towards sustainable growth and success.
+    image: images/service/branding.svg
+  - content: >
+      #### Project Management 
+
+      Proficient in project management principles, I oversee initiatives from conception to completion, ensuring timely delivery and adherence to quality standards.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Data Analysis 
+
+      Utilizing advanced analytical tools, I extract actionable insights from data sets to inform decision-making, drive innovation, and gain a competitive edge.
+    image: images/service/web.svg

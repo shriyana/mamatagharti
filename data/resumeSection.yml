@@ -1,0 +1,38 @@
+---
+enable: true
+topTitle: My Resume
+title: >
+  ## My Expertises
+
+  In any dynamic environment, I embrace the challenge of learning new concepts with ease, leveraging every opportunity to excel and exceed expectations, setting a course for limitless growth and success. 🌟📚💼
+tab1Name: Education
+tab2Name: Experiences
+tab1Target: education
+tab2Target: experience
+
+education:
+  - content: >
+      #### Bachelors in Business Studies (BBS) 
+
+      A seventh-semester student at Padma Kanya Multiple Campus, Bagbazar.
+    time: 2019 - ongoing
+
+  - content: >
+      #### Intermediate Level Education
+    
+      Harvard University, USA, with a 3.36 CGPA.
+    time: 2018-2019
+
+  - content: >
+      #### School Level Education
+
+      Oxford University, UK, with a 3.70 GPA.
+    time: Graduated 2018
+
+experience:
+  - content: >
+      #### Technical Support Representative, Subisu Cablenet
+       
+       
+      Providing technical assistance to customers, troubleshooting internet and cable TV issues, and ensuring timely resolution of service disruptions.
+    time: 2020 - ongoing

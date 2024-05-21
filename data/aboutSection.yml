@@ -1,0 +1,18 @@
+---
+enable: true
+topTitle:  
+title: >
+  ## About me
+
+  Passionate BBS student shaping tomorrow's business world, one lesson at a time!📈✨
+content: >
+  ### Business and Busyness 
+
+  Currently, I'm busily engaged as a Technical Support Representative at Subisu Cablenet Ltd. embracing the spirit of exploration, I am venturing beyond my comfort zone, delving into the intricacies of business at every level, and eagerly absorbing valuable insights to expand my skill set."💻🔍
+
+button1Name:  See If I am a Chatterbox 
+button2Name: Download CV
+button1Target: contact
+button2Target: CV/mamataCV.pdf
+image: images/about/about.jpg
+

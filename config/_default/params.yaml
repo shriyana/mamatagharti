@@ -1,0 +1,94 @@
+titleSeparator: '-'
+titleAddition: A Cute girl
+description: >-
+  This is Mamata, a nice person from Butwal working at Subisu and studying in PadmaKanya.
+images:
+  - favicon.svg
+ogLocale: en_US
+titleHome: Mamata Gharti
+twitterSite: '@'
+twitterCreator: '@'
+schemaType: Organization
+schemaName: Hyas
+schemaAuthor: Henk Verlinde
+schemaAuthorTwitter: 'https://twitter.com/'
+schemaAuthorLinkedIn: 'https://www.linkedin.com/in//'
+schemaAuthorGitHub: 'https://github.com/'
+schemaLocale: en-US
+schemaLogo: logo.svg
+schemaLogoWidth: 512
+schemaLogoHeight: 512
+schemaImage: logo.png
+schemaImageWidth: 1280
+schemaImageHeight: 640
+schemaTwitter: 'https://twitter.com/'
+schemaLinkedIn: ''
+schemaGitHub: 'https://github.com/'
+themeColor: '#5D78FF'
+landscapePhotoWidths:
+  - 900
+  - 800
+  - 700
+  - 600
+  - 500
+portraitPhotoWidths:
+  - 800
+  - 700
+  - 600
+  - 500
+lqipWidth: 20x
+smallLimit: '320'
+imageResponsive: true
+imageConvertTo: webp
+imageImageSizes:
+  - '480'
+  - '720'
+  - '1080'
+  - '1280'
+  - '1600'
+  - '2048'
+singleSize: false
+imageAddClass: img-fluid lazyload blur-up
+defaultImage: default-image.png
+fillImage: 1280x720 Center
+alert: false
+alertDismissable: true
+alertText: >-
+  Deliver web projects 10x faster. <a class="alert-link"
+  href="https://www.netlify.com/whitepaper/" target="_blank" rel="noopener">Get
+  the free enterprise paper →</a>
+blogPageURL: blog
+contactLink: contact
+copyright: All right reserved copyright © Mamata Gharti 2024
+footerLogo: images/contact/logo.svg
+footerContact:
+  topTitle: Let's Start
+  title: The Start of a Dream
+  button: Get in Touch
+fabformURL: 'https://fabform.io/f/'
+googleAnalytics: YOUR GOOGLE ANALYTICS CODE
+logo: images/logo.svg
+address:
+  address: 'Butwal'
+  email: mamatagharti@gmail.com
+  openingHours: Available from 6am to 2pm
+  phone: (+977) 9863234567
+map:
+  APIkey: YOUR GOOGLE MAP API
+  latitude: '23'
+  longitude: '90'
+  pinImage: images/pin.png
+social:
+  - icon: fa-facebook
+    url: 'https://www.facebook.com/'
+    weight: 1
+  - icon: fa-instagram
+    url: 'https://www.pinterest.com/'
+    weight: 2
+  - icon: fa-twitter
+    url: 'https://twitter.com/'
+    weight: 3
+  - icon: fa-linkedin
+    url: 'https://www.linkedin.com/'
+    weight: 4
+_template: parameters_template

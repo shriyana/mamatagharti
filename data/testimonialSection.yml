@@ -1,0 +1,31 @@
+---
+enable: true
+topTitle: Testimonials
+title: >
+  ## What People Say About Me?
+
+testimonial:
+  - name: Shreya Bayalkoti
+    comment: As a friend, I've always admired Mamata's dedication to helping others. Her depth of knowledge in technical support is unmatched, and she's always there to lend a helping hand whenever I encounter an issue. She truly goes above and beyond to ensure everyone feels supported and empowered.
+    post: Technical Support Representative 
+    star: 5
+  - name: Suhesh Kasti
+    comment: I can't thank Mamata enough for her invaluable assistance whenever I've faced technical challenges. Her expertise and patience make her an incredible resource to have around. She not only solves problems efficiently but also takes the time to explain solutions in a way that's easy to understand. A true gem!
+    post: Application Security Officer, DNS
+    star: 5
+  - name: Archana Thapa
+    comment: Having Mamata as a friend has been a blessing, especially when it comes to technical matters. Her willingness to share her knowledge and provide guidance has been instrumental in my own growth. She's not just a technical support girl; she's a supportive friend who makes navigating technology and business a breeze.
+    post: Technical Support Representative
+    star: 4
+  - name: Anand Dahal
+    comment: In my role as Technical Support Supervisor, I've had the pleasure of working closely with Mamata, and I can confidently say she's one of the most efficient technical support professionals I've ever encountered. Her ability to troubleshoot issues swiftly and accurately is remarkable, and her dedication to delivering exceptional service is evident in every task she undertakes.
+    post: Technical Support Supervisor
+    star: 4
+  - name: Bibek Shrestha
+    comment: As Mamata's supervisor, I've been consistently impressed by her efficiency and professionalism. She tackles her responsibilities with precision and effectiveness, ensuring that tasks are completed on time and to the highest standard. Her commitment to excellence sets a benchmark for the team, and I'm grateful for her contributions to our success.   
+    post: Technical Support Supervisor
+    star: 3
+  - name: Rajiv Bogati 
+    comment: Having had the opportunity to work alongside Mamata, I can confidently say that she is one of the best technical support professionals I've ever had the pleasure of collaborating with. Her depth of knowledge, coupled with her exceptional problem-solving skills, makes her an invaluable asset to our department. Mamata consistently exceeds expectations and sets a standard of excellence that inspires her peers. Truly a remarkable individual.
+    post: HOD, Technical Support Department
+    star: 5

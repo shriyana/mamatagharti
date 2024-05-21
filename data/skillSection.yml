@@ -1,0 +1,22 @@
+---
+enable: true
+topTitle: My Skills
+content: >
+  ## Why trust me with your next project?
+
+  My goal is to build a strong supportive professional network among everyone and improve their performance.
+
+image: images/skill/skill.jpg
+
+skill:
+  - title: Data Analysis Skills
+    percent: 69
+  - title: Project Management Confidence
+    percent: 78
+  - title: Strategic Thinking
+    percent: 83
+  - title: Financial Analysis Proficiency
+    percent: 72
+  - title: Market Research Expertise
+    percent: 88
+
